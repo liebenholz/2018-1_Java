@@ -1,0 +1,1 @@
+getEvensSum 메소드를 호출할 때, (5,2)를 인자로 주면 getEvensSum 메소드가 (0)을 반환한다.
